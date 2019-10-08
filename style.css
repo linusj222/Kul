@@ -1,0 +1,35 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.button {
+  border: 1px solid black;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 1px 1px black;
+  color: gray;
+  font-size: 25px;
+}
+
+.big_button {
+  border: 1px solid black;
+  box-shadow: 1px 1px black;
+  color: gray;
+  font-size: 25px;
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  margin-top: 300px;
+  color: gray;
+  font-size: 25px;
+}
+
+.text {
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  margin-top: 170px;
+}
